@@ -1,0 +1,95 @@
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\PHARMACIE.exe.config
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\PHARMACIE.exe
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\PHARMACIE.pdb
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.csprojAssemblyReference.cache
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Form1.resources
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Properties.Resources.resources
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.csproj.GenerateResource.cache
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.exe
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.pdb
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.csproj.CopyComplete
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.exe.config
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Lenovo T460\Desktop\Exercices Corrigés Module 19 - Programmation Client - Serveur (ADO.Net)\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\PHARMACIE.exe.config
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\PHARMACIE.exe
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\PHARMACIE.pdb
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.csprojAssemblyReference.cache
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.exe.config
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Form1.resources
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Properties.Resources.resources
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.csproj.GenerateResource.cache
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.csproj.CopyComplete
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.exe
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.pdb
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Gestion_medicament.resources
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Accueil.resources
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Commande.resources
+C:\Users\Lenovo T460\Desktop\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Fournisseur.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\PHARMACIE.exe.config
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\PHARMACIE.exe
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\PHARMACIE.pdb
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.csprojAssemblyReference.cache
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Accueil.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Commande.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Fournisseur.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Gestion_medicament.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Properties.Resources.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.csproj.GenerateResource.cache
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.exe
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.pdb
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Connexion.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Categorie_medicament.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.medicament_perime.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Stock.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Medecin.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Ordonnance.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.Facture.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.utilisateur.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.verification_medecin.resources
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\bin\Debug\stdole.dll
+C:\Users\Lenovo T460\Desktop\PC\PHARMACIE\PHARMACIE\obj\Debug\PHARMACIE.csproj.CopyComplete
